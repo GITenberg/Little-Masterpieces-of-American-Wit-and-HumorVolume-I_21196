@@ -1,0 +1,50 @@
+_repo: Little-Masterpieces-of-American-Wit-and-HumorVolume-I_21196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Masson, Thomas L.
+    aliases:
+    - Masson, Tom
+    - Masson, Thomas Lansing
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '1991'
+    url: http://www.gutenberg.org/2009/agents/1991
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Masson
+description: ''
+gutenberg_issued: '2007-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+tableOfContents: "IRVING: Wouter Van Twiller -- Wilhelmus Kieft -- Peter Stuyvesant\
+  \ -- Antony Van Corlear -- General Van Poffenburgh\r\nFRANKLIN: Maxims -- Model\
+  \ of a Letter of Recommendation of a Person You Are Unacquainted with -- Epitaph\
+  \ for Himself \r\nBUTLER: Nothing to Wear\r\nBEECHER: Deacon Marble -- The Deacon's\
+  \ Trout -- The Dog Noble and the Empty Hole\r\nGREENE: Old Grimes\r\nHOLMES: My\
+  \ Aunt -- The Deacon's Masterpiece; or, the Wonderful \"One-hoss Shay\" -- Foreign\
+  \ Correspondence -- Music-Pounding -- The Ballad of the Oysterman\r\nWILLIS: Miss\
+  \ Albina McLush -- Love in a Cottage\r\nPALMER: A Smack in School\r\nSHILLABER (\"\
+  Mrs. Partington\"): Fancy Diseases -- Bailed Out -- Seeking a Comet -- Going to\
+  \ California -- Mrs. Partington in Court -- \r\nSILL: Five Lives\r\nFIELDS: The\
+  \ Owl-Critic -- The Alarmed Skipper\r\nHAY: Little Breeches\r\nSHAW (\"Josh Billings\"\
+  ): Natral and Unnatral Aristokrats\r\nLOWELL: The Yankee Recruit -- What Mr. Robinson\
+  \ Thinks\r\nWARNER: My Summer in a Garden\r\nCOZZENS: Living in the Country\r\n\
+  LELAND: Hans Breitmann's Party\r\nWHICHER: Tim Crane and the Widow\r\nSAXE: The\
+  \ Stammering Wife\r\nKELLEY (\"Parmenas Mix\"): He Came to Pay\r\nHOLLEY: A Pleasure\
+  \ Exertion\r\nSTEDMAN: The Diamond Wedding\r\nMISCELLANEOUS: Why He Left -- A Boy's\
+  \ Essay on Girls -- Identified -- One Better -- A Rendition -- A Cause for Thanks\
+  \ -- Crowded -- The Wedding Journey -- A Case of Conscience -- He Rose to the Occasion\
+  \ -- Polite -- Lost, Strayed or Stolen -- A Gentle Complaint -- Music by the Choir\r\
+  \nTWAIN: The Notorious Jumping Frog of Calveras County."
+title: Little Masterpieces of American Wit and Humor, Volume I
+url: http://www.gutenberg.org/ebooks/21196
